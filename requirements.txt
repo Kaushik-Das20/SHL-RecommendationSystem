@@ -4,9 +4,9 @@ pydantic
 pandas
 numpy
 faiss-cpu
-sentence-transformers
-google-generativeai
 requests
 beautifulsoup4
-streamlit
 python-multipart
+google-generativeai
+torch --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers
